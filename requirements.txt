@@ -8,3 +8,4 @@ pandas
 sentence-transformers
 transformers
 
+flask
