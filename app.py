@@ -35,4 +35,4 @@ def chat():
 
 if __name__ == "__main__":
     app.run(debug=True)
-# Forçar redeploy no Render
+# Forçar redeploy no Reder
