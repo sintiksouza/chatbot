@@ -7,7 +7,8 @@ faiss-cpu
 pandas
 sentence-transformers
 transformers
-
+langchain-community
+langchain-core
 flask
 
 flask_cors
