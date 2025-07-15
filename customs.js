@@ -1,7 +1,8 @@
 const formPerguntaChat = document.getElementById('form-pergunta-chat');
 
 // URL do seu backend Flask hospedado no Render ou outro serviço
-const BACKEND_URL = "https://seu-backend.onrender.com/chat"; // 🔁 Substitua pela URL real
+const BACKEND_URL = "https://meu-chatbot-production.up.railway.app/chat";
+
 
 if (formPerguntaChat) {
     formPerguntaChat.addEventListener("submit", async (e) => {

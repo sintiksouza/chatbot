@@ -10,5 +10,12 @@ transformers
 langchain-community
 langchain-core
 flask
-
+python-dotenv
 flask_cors
+
+web: gunicorn app:app
+
+
+
+
+
