@@ -2,12 +2,12 @@
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from langchain.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.chat_models import ChatOpenAI
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import FAISS
-from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
-from langchain.chat_models import ChatOpenAI
 import os
 
 app = Flask(__name__)
@@ -35,5 +35,5 @@ def chat():
     return jsonify({"answer": resposta})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000)
 # Forçar redeploy no Rern
