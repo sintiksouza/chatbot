@@ -17,7 +17,7 @@ CORS(app)
 os.environ["OPENAI_API_KEY"] = "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"
 
 # Carregar e processar o PDF
-loader = PyPDFLoader("arquivos/500perguntasabacaxi.pdf")
+loader = PyPDFLoader("500perguntasabacaxi.pdf")
 docs = loader.load()
 splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
 chunks = splitter.split_documents(docs)
