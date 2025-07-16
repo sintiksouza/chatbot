@@ -1,17 +1,9 @@
-fastapi
-uvicorn
-langchain
-openai
-pypdf
-faiss-cpu
-pandas
-sentence-transformers
-transformers
-langchain-community
-langchain-core
 flask
-python-dotenv
 flask_cors
+langchain
+langchain-community
+openai
+sentence-transformers
 
 
 
