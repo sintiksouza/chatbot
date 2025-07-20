@@ -1,12 +1,6 @@
 flask
 flask_cors
-langchain
-langchain-community
-openai
-sentence-transformers
-
-
-
-
+scikit-learn
+numpy
 
 

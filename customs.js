@@ -1,55 +1,40 @@
-const formPerguntaChat = document.getElementById('form-pergunta-chat');
+const BACKEND_URL = "http://localhost:5000";
 
-// URL do seu backend Flask hospedado no Render ou outro serviço
-const BACKEND_URL = "https://meu-chatbot-production.up.railway.app/chat";
+document.getElementById("form-pergunta").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const pergunta = document.getElementById("campo-pergunta").value;
+    const respostaEl = document.getElementById("resposta");
 
-
-if (formPerguntaChat) {
-    formPerguntaChat.addEventListener("submit", async (e) => {
-        e.preventDefault();
-
-        const botao = document.getElementById('btn-pergunta-chat');
-        const campoPergunta = document.getElementById('campo-pergunta');
-        const campoResposta = document.getElementById('resposta');
-        const campoPerguntaExibida = document.getElementById('pergunta');
-
-        const pergunta = campoPergunta.value.trim();
-
-        if (!pergunta) {
-            campoResposta.innerHTML = "<span style='color: red;'>Digite uma pergunta.</span>";
-            return;
-        }
-
-        botao.value = "Pesquisando...";
-        campoPerguntaExibida.innerHTML = "Sua pergunta: " + pergunta;
-        campoResposta.innerHTML = "Pensando...";
-
-        try {
-            const resposta = await fetch(BACKEND_URL, {
-                method: "POST",
-                headers: {
-                    Accept: "application/json",
-                    "Content-Type": "application/json",
-                },
-                body: JSON.stringify({
-                    question: pergunta
-                })
-            });
-
-            const dados = await resposta.json();
-
-            if (dados.answer) {
-                campoResposta.innerHTML = dados.answer;
-            } else {
-                campoResposta.innerHTML = "Erro: Não foi possível obter uma resposta.";
-                console.error("Resposta incompleta:", dados);
-            }
-
-        } catch (erro) {
-            campoResposta.innerHTML = "Erro ao acessar o servidor.";
-            console.error("Erro na requisição:", erro);
-        }
-
-        botao.value = "Enviar";
+    const response = await fetch(`${BACKEND_URL}/chat`, {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({ question: pergunta })
     });
-}
+
+    const data = await response.json();
+    respostaEl.textContent = data.answer;
+});
+
+// Adicionando nova pergunta/resposta
+document.getElementById("form-adiciona-faq").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const novaPergunta = document.getElementById("nova-pergunta").value;
+    const novaResposta = document.getElementById("nova-resposta").value;
+    const mensagemEl = document.getElementById("mensagem-faq");
+
+    const response = await fetch(`${BACKEND_URL}/add_faq`, {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({
+            pergunta: novaPergunta,
+            resposta: novaResposta
+        })
+    });
+
+    if (response.ok) {
+        mensagemEl.textContent = "Pergunta adicionada com sucesso!";
+    } else {
+        mensagemEl.textContent = "Erro ao adicionar pergunta.";
+    }
+});
+

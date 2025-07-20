@@ -1,29 +1,28 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
-    <title>Chatbot</title>
+    <title>Chatbot de Perguntas</title>
 </head>
-
 <body>
 
-    <h2>Chatbot de Perguntas sobre Abacaxi 🍍</h2>
-
-    <!-- Formulário para envio da pergunta -->
-    <form id="form-pergunta-chat">
-        <label for="campo-pergunta">Pergunta:</label><br>
-        <textarea id="campo-pergunta" rows="5" cols="50" placeholder="Digite sua pergunta aqui..."></textarea><br><br>
-        <input type="submit" id="btn-pergunta-chat" value="Enviar">
+    <h2>Faça uma Pergunta:</h2>
+    <form id="form-pergunta">
+        <input type="text" id="campo-pergunta" placeholder="Digite sua pergunta">
+        <button type="submit">Enviar</button>
     </form>
 
-    <hr>
+    <p><strong>Resposta:</strong> <span id="resposta"></span></p>
 
-    <!-- Exibir a pergunta e resposta -->
-    <p id="pergunta"></p>
-    <p id="resposta"></p>
+    <h3>Adicionar Nova Pergunta/Resposta:</h3>
+    <form id="form-adiciona-faq">
+        <input type="text" id="nova-pergunta" placeholder="Nova pergunta"><br>
+        <input type="text" id="nova-resposta" placeholder="Resposta correspondente"><br>
+        <button type="submit">Adicionar</button>
+    </form>
+
+    <p id="mensagem-faq"></p>
 
     <script src="custom.js"></script>
 </body>
-
 </html>
