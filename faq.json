@@ -1,11 +1,170 @@
 [
     {
-        "pergunta": "Como irrigar a soja?",
-        "resposta": "A irrigação deve ser feita regularmente conforme a necessidade da planta."
+        "pergunta": "2116 Quais são os solos mais adequados ao plantio do abacaxizeiro?",
+        "resposta": "São os solos que apresentam acidez de leve a moderada (pH de 4,5 a 5,5), textura média (de 15% a 35% de argila e mais de 15% de areia) e que não sujeitos a encharcamento."
     },
     {
-        "pergunta": "Qual o solo ideal para abacaxi?",
-        "resposta": "O solo deve ser arenoso e bem drenado para o cultivo do abacaxi."
+        "pergunta": "17 Solos com menor acidez (pH mais elevado) podem ser usados para o cultivo do abacaxizeiro?",
+        "resposta": "Em solos com pH acima de 5,5, a nutrição da planta tende a ser afetada, sobretudo o aproveitamento de micronutrientes. Isso não impede o cultivo, mas o dificulta, exigindo cuidados especiais no manejo de nutrientes."
+    },
+    {
+        "pergunta": "18 Solos argilosos são inadequados para a cultura do abacaxizeiro?",
+        "resposta": "Não. Solos de textura argilosa (acima de 35% de argila) podem ser utilizados para o plantio do abacaxizeiro, desde que apresentem boas condições de aeração e drenagem, como ocorre, por exemplo, na maioria dos latossolos argilosos."
+    },
+    {
+        "pergunta": "19 Solos arenosos são adequados à cultura do abacaxizeiro?",
+        "resposta": "Também podem ser usados para a abacaxicultura. Quase sempre, porém, requerem práticas de manejo agrícola que melhorem sua capacidade de retenção de água e de nutrientes, normally baixa."
+    },
+    {
+        "pergunta": "14 Que características físicas do solo mais contribuem para o bom desenvolvimento do abacaxizeiro?",
+        "resposta": "Boa drenagem e boa aeração do solo são requisitos básicos para o bom desenvolvimento do abacaxizeiro. A planta não se desenvolve bem em áreas com problemas de umidade excessiva por períodos prolongados e, portanto, mal arejadas. Não adianta insistir no plantio do abacaxizeiro em solos com problemas de drenagem e aeração."
+    },
+    {
+        "pergunta": "15 Quais são as consequências da má drenagem do solo para o abacaxizeiro?",
+        "resposta": "A má drenagem do solo influencia negativamente o crescimento do sistema radicular e da parte aérea do abacaxizeiro, cujas folhas se tornam estreitas e de coloração amarelo-avermelhada. Além dos distúrbios morfológicos e fisiológicos sofridos pelo abacaxizeiro, condições de má drenagem tendem também a favorecer o apodrecimento de raízes e a morte de plantas, em consequência do ataque de fungos do gênero Phytophthora."
+    },
+    {
+        "pergunta": "1910 O clima influencia na produção de mudas pelo abacaxizeiro?",
+        "resposta": "Sim. A falta de chuva, altas temperaturas e baixa umidade diminuem a produção e a qualidade de mudas pela planta."
+    },
+    {
+        "pergunta": "11 Ventos fortes prejudicam o abacaxizeiro?",
+        "resposta": "Sim. Ventos fortes, secos e constantes causam ressecamento da ponta das folhas e ferimentos em seus bordos (por causa do atrito entre elas). Na época de produção, provocam o tombamento de plantas e frutos, e intensificam a queima do fruto pelo sol.\nEm áreas próximas ao mar, os ventos fortes causam necrose (queima) na extremidade das folhas, em virtude da maior salinidade do ar. Em determinadas situações, recomenda-se o uso de quebra-ventos em volta dos plantios, principalmente nos lados em que os ventos sopram com mais intensidade."
+    },
+    {
+        "pergunta": "12 O abacaxizeiro pode ser cultivado em áreas sujeitas a geadas e granizo?",
+        "resposta": "Sim, desde que a ocorrência não seja intensa nem frequente, a ponto de danificar seriamente a planta. Os danos causados por granizo são maiores quando as plantas se encontram em fase de floração. O fruto do abacaxizeiro é mais resistente ao granizo do que a folha, no caso de ocorrência moderada."
+    },
+    {
+        "pergunta": "13 Como escolher a área de plantio do abacaxizeiro?",
+        "resposta": "Na exploração econômica do abacaxizeiro, é preciso considerar não apenas os aspectos técnicos, mas também outros fatores relevantes e estratégicos para o sucesso do empreendimento, relacionados à localização da área. Assim, as áreas de cultivo devem ter estradas para facilitar o acesso de veículos e o escoamento da produção, dispor de fontes de água nas proximidades e não estar distantes dos mercados consumidores. A existência de agroindústrias na região também é um fator favorável."
+    },
+    {
+        "pergunta": "8 Qual é a importância da luminosidade – radiação solar – para a cultura do abacaxizeiro?",
+        "resposta": "A radiação solar influencia o crescimento, o rendimento e a qualidade do fruto do abacaxizeiro. É o principal fator limitante da produção em regiões de altitude elevada. Seus efeitos estão intimamente relacionados à temperatura e ao fotoperíodo.\nBaixa luminosidade retarda o crescimento da planta e resulta na produção de frutos pequenos e de má qualidade (baixo teor de açúcares e acidez elevada). As folhas da planta tornam-se alongadas, eretas e de cor verde-escura. A baixa luminosidade também contribui para a floração natural.\nSob alta luminosidade, a cor da folha torna-se amarelo-arroxeada e o fruto pode sofrer queimaduras internas e externas."
+    },
+    {
+        "pergunta": "9 Quais são os limites de radiação solar mais favoráveis ao cultivo do abacaxizeiro?",
+        "resposta": "A radiação solar mínima necessária ao desenvolvimento e à produção do abacaxizeiro situa-se entre 1.200 e 1.500 horas de brilho solar (insolação direta, sem a interferência de nuvens), por ano, ao passo que o intervalo ótimo situa-se entre 2.500 e 3.000 horas/ano.\nUma média de 6,5 horas por dia de luminosidade é satisfatória para a produção do abacaxizeiro."
+    },
+    {
+        "pergunta": "5 Qual é a temperatura recomendada para o cultivo do abacaxizeiro?",
+        "resposta": "A faixa ótima de temperatura para crescimento e desenvolvimento do abacaxizeiro (folhas e raízes) situa-se entre 22 °C e 32 °C. O abacaxizeiro pode suportar temperaturas fora dessa faixa, mas em temperaturas acima de 40 °C e abaixo de 5 °C a planta apenas resiste por períodos curtos."
+    },
+    {
+        "pergunta": "6 A temperatura influencia a qualidade do fruto do abacaxizeiro?",
+        "resposta": "Sim. Temperaturas altas durante o dia e baixas durante a noite favorecem o desenvolvimento do fruto. Uma variação em torno de 8 °C a 14 °C entre as temperaturas máxima e mínima, num período de 24 horas, contribui para melhorar a qualidade do fruto, principalmente reduzindo sua acidez, o que é importante para o seu consumo.\nFrutos produzidos durante os meses quentes apresentam menor teor de acidez, bem como aroma e sabor mais agradáveis. Ocorre o inverso, em períodos frios."
+    },
+    {
+        "pergunta": "7 Qual é a importância da umidade relativa do ar para a cultura do abacaxizeiro?",
+        "resposta": "A umidade relativa do ar alta (acima de 85%) favorece a ocorrência de doenças fúngicas e bacterianas. Mudanças bruscas na umidade do ar podem causar fendilhamento na inflorescência e no fruto.\nEm áreas de baixa pluviosidade, a alta umidade do ar melhora o crescimento da planta. Mas a umidade baixa atrasa o seu crescimento, causa ressecamento da ponta da folha e afeta a floração natural."
+    },
+    {
+        "pergunta": "1 A falta de chuva prejudica o abacaxizeiro?",
+        "resposta": "Dependendo do estágio de desenvolvimento da cultura, a falta de chuva pode atrasar o crescimento das plantas, causar problemas na floração, diminuir o tamanho do fruto, reduzir a produção e prejudicar a qualidade das mudas."
+    },
+    {
+        "pergunta": "2 Até que ponto o abacaxizeiro é resistente à seca?",
+        "resposta": "O abacaxizeiro é uma planta que resiste bem à seca. No entanto, para ser cultivado com finalidade comercial, a resistência à seca não é suficiente. Para tornar-se uma atividade econômica viável, recomenda-se seu cultivo em áreas onde as chuvas atinjam volumes de 1.000 mm a 1.500 mm anuais, bem distribuídos ao longo dos meses."
+    },
+    {
+        "pergunta": "3 A latitude – distância sul e norte da linha do Equador – tem alguma influência no cultivo do abacaxizeiro?",
+        "resposta": "Sim. O abacaxizeiro é uma planta de origem tropical e pode ter seu desenvolvimento e produção prejudicados em regiões de altas latitudes. Em geral, as regiões de baixa latitude, localizadas entre os paralelos 25 ° Norte e 25 ° Sul – entre os trópicos de Câncer e de Capricórnio – são as mais indicadas para o cultivo econômico do abacaxizeiro."
+    },
+    {
+        "pergunta": "4 A altitude – altura da superfície da terra em relação ao nível do mar – influencia o cultivo do abacaxizeiro?",
+        "resposta": "Sim. O abacaxizeiro é uma planta tropical e não suporta clima muito frio. Por essa razão, recomenda-se seu cultivo em regiões de baixa altitude (menos de 400 m), onde se localiza a maioria dos plantios."
+    },
+    {
+        "pergunta": "41 Por que as cultivares resistentes à fusariose são pouco cultivadas no Brasil?",
+        "resposta": "• São relativamente novas no mercado, portanto pouco conhecidas dos produtores e consumidores.\n• Resistência por parte dos produtores em avaliar o que é novidade.\n• Limitada oferta de mudas pelos viveiristas e pelas biofábricas.\n• Custo elevado das mudas em comparação com as cultivares tradicionais (Pérola e Smooth Cayenne)."
+    },
+    {
+        "pergunta": "42 Que anomalias morfológicas ocorrem em plantas e frutos de abacaxi?",
+        "resposta": "A fasciação é a deformação do fruto resultante do achatamento do ápice da infrutescência e da emissão de rebentos na forma de leque, com coroa múltipla. Ocorre com maior frequência na cultivar Smooth Cayenne e nas seguintes situações: quando a diferenciação floral coincide com horas mais quentes do dia e quando há excesso de adubação nitrogenada.\nOutras anomalias são os frutos sem coroa (frutos “machos”); frutos com “pescoço de garrafa”, nos quais as flores e os frutilhos superiores não se desenvolvem; e várias formas de fasciação intensa, não restrita à coroa, como plantas retorcidas com fruto grande também retorcido; planta normal com fruto retorcido; fruto grande em formato de leque e coroa múltipla, tipo “crista de galo”.\nAs mudas de plantas com deformações não devem ser utilizadas, pois tendem a repetir as anomalias das plantas-mãe, embora nem todas tenham origem genética comprovada."
+    },
+    {
+        "pergunta": "37 Quais são as características da cultivar BRS Vitória?",
+        "resposta": "• Planta de porte médio, com folhas verde-claras, completamente sem espinhos.\n• Resistente à fusariose.\n• Fruto cilíndrico, de casca amarela na maturação.\n• Polpa branca, eixo central reduzido, com acidez moderada e alto teor de sólidos solúveis."
+    },
+    {
+        "pergunta": "38 Quais são as características da cultivar BRS Ajubá?",
+        "resposta": "• Planta de porte médio, com folhas verde-escuras, completamente sem espinhos.\n• Resistente à fusariose.\n• Fruto cilíndrico, de casca amarela na maturação.\n• Polpa amarela, com acidez titulável moderada e elevado teor de sólidos solúveis.\nRecomendada para a região Sul, onde produziu frutos de maior peso que a cultivar Pérola."
+    },
+    {
+        "pergunta": "39 Por que se recomenda o uso de cultivares resistentes à fusariose como controle para essa doença?",
+        "resposta": "Comparado ao controle cultural (ex.: proteção mecânica das inflorescências) e ao controle químico (por meio de fungicidas), o controle genético é considerado o de maior eficiência e o de menor custo para o produtor de abacaxi, além de ser ambientalmente menos agressivo."
+    },
+    {
+        "pergunta": "40 Que cuidados devem ser tomados para que se mantenham as características de uma cultivar?",
+        "resposta": "O produtor deve adotar as seguintes providências:\n• Eliminar plantas com características diferentes do padrão da variedade, como coroa múltipla, fruto sem coroa, fruto deformado, etc.\n• Não utilizar mudas de plantas com defeitos para novos plantios."
+    },
+    {
+        "pergunta": "34 Quais são as características da cultivar IAC Gomo de Mel?",
+        "resposta": "• Elevado número de folhas, com presença de espinhos agressivos.\n• Altamente suscetível à fusariose.\n• Fruto pequeno (0,8 kg a 1,2 kg) e polpa amarelo-ouro.\n• Polpa com alto teor de sólidos solúveis totais (16 °Brix a 24 °Brix) e de sabor excelente."
+    },
+    {
+        "pergunta": "35 Quais são as características da cultivar IAC Fantástico?",
+        "resposta": "• Folhas semieretas, com espinhos apenas na base e próximo do ápice foliar.\n• Resistente à fusariose.\n• Fruto com formato intermediário entre a cultivar Pérola e a Smooth Cayenne.\n• Polpa saborosa, de coloração amarelo-intensa. O teor de sólidos solúveis totais varia de médio a alto. Maturação tardia.\n• Menor acidez e maior doçura em comparação à cultivar Smooth Cayenne."
+    },
+    {
+        "pergunta": "36 Quais são as características da cultivar BRS Imperial?",
+        "resposta": "• Planta de porte médio, com folhas verde-escuras, completamente sem espinhos.\n• Resistente à fusariose e tolerante à indução natural do florescimento.\n• Fruto com frutilhos salientes, resistentes à queima solar e ao transporte.\n• Produz muitas mudas do tipo filhote, aderidas à base do fruto.\n• Polpa amarela, com baixa acidez e alto teor de sólidos solúveis. Excelente sabor nas análises sensoriais."
+    },
+    {
+        "pergunta": "31 Quais são as diferenças entre as cultivares Pérola e Jupi?",
+        "resposta": "Elas são semelhantes nas características relacionadas à planta e à qualidade de fruto. A diferença mais marcante entre essas cultivares é o formato cilíndrico no fruto da ‘Jupi’ e cônico no fruto da ‘Pérola’."
+    },
+    {
+        "pergunta": "32 Quais são as principais características da cultivar Smooth Cayenne?",
+        "resposta": "• Folhas semieretas, com espinhos apenas na base e próximo do ápice foliar.\n• É suscetível à fusariose e muito suscetível à murcha associada à cochonilha.\n• É mais tolerante à indução natural do florescimento do que a ‘Pérola’.\n• Pedúnculo curto (em torno de 20 cm) e resistente.\n• Fruto ovoide a cilíndrico, pesando entre 1,5 kg e 2,5 kg.\n• Polpa amarelo-clara, no ponto de colheita, com considerável variação no teor de sólidos solúveis (de 13 °Brix a 19 °Brix) e acidez elevada, mas baixo teor de ácido ascórbico."
+    },
+    {
+        "pergunta": "33 Que características deve ter uma boa cultivar de abacaxi?",
+        "resposta": "• Crescimento rápido para proporcionar menor ciclo ou tempo de cultivo.\n• Folhas sem espinhos nos bordos para facilitar as práticas culturais.\n• Pedúnculo curto e firme para sustentar o fruto até a colheita.\n• Boa produção de mudas.\n• Fruto de sabor agradável.\n• Tolerância às principais pragas e doenças."
+    },
+    {
+        "pergunta": "28 Quais são as características das cultivares destinadas ao consumo fresco?",
+        "resposta": "Produzir frutos com alto teor de sólidos solúveis totais (teor de açúcares), acidez de baixa a média, polpa preferencialmente de cor amarela a laranja.\nNo Brasil, as cultivares Pérola e Jupi são atualmente as mais utilizadas no consumo fresco, mas podem ser utilizadas no processamento."
+    },
+    {
+        "pergunta": "29 Quais são as características das cultivares destinadas ao processamento?",
+        "resposta": "Produzir frutos cilíndricos, com alto teor de sólidos solúveis totais, acidez de média a elevada, com firmeza na polpa, de coloração amarelo-alaranjada, preferencialmente.\nNo Brasil, a cultivar Smooth Cayenne é atualmente a mais utilizada no processamento, na forma de fatias ou de suco."
+    },
+    {
+        "pergunta": "30 Quais são as principais características da cultivar Pérola?",
+        "resposta": "• Folhas eretas, com espinhos nos bordos.\n• É suscetível à fusariose e tolerante à murcha associada à cochonilha.\n• Apresenta percentual de indução natural do florescimento superior ao da ‘Smooth Cayenne’.\n• Produz muitas mudas do tipo filhote, mas poucos rebentões ou nenhum.\n• Pedúnculo longo (em torno de 30 cm).\n• Fruto de forma cônica, pesando entre 1 kg e 2 kg, e com casca verde na maturação.\n• Polpa branca ou creme, muito suculenta, de baixa acidez no ponto de colheita e pouco fibrosa."
+    },
+    {
+        "pergunta": "25 O predomínio de uma única cultivar na produção de abacaxi tem aspectos negativos?",
+        "resposta": "O predomínio de uma ou de poucas cultivares de abacaxi tem as seguintes consequências:\n• A cultura fica muito vulnerável à ocorrência de fatores bióticos (surgimento de novas pragas e doenças), que podem causar prejuízos ao agronegócio do abacaxi.\n• Contribui para o desaparecimento de variedades locais, consideradas importantes para a sustentabilidade da cultura.\n• Promove a erosão genética, isto é, perda de diversidade genética e de fontes de genes com características de importância, no presente e no futuro, para o cultivo do abacaxi."
+    },
+    {
+        "pergunta": "26 Que outras cultivares de abacaxi também são plantadas no Brasil?",
+        "resposta": "Existem cultivares locais, em plantios de pequena escala, na região Amazônica (inclui o norte do Maranhão), como ‘Primavera’, ‘Roxo de Tefé’, ‘Quinari’, ‘Gigante de Tarauacá’, ‘Cabeça-de-onça’ e ‘Turiaçu’.\nA partir de 1999, programas de melhoramento genético de instituições de pesquisa, como o Instituto Agronômico de Campinas (IAC) e a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), desenvolveram novas cultivares híbridas, como a ‘IAC Gomo de Mel’, a ‘BRS Imperial’, a ‘BRS Vitória’, a ‘BRS Ajubá’ e a ‘IAC Fantástico’.\nPlantios dessas novas cultivares existem em diferentes estados, com maior concentração no Nordeste e no Sudeste do País."
+    },
+    {
+        "pergunta": "27 Quais são os critérios para a escolha da cultivar a ser plantada?",
+        "resposta": "Basicamente, deve-se considerar o destino da produção (consumo fresco ou industrializado) e o mercado (interno ou externo)."
+    },
+    {
+        "pergunta": "23 Quais são as cultivares de abacaxi mais plantadas no mundo?",
+        "resposta": "• MD-2 ou Gold.\n• Smooth Cayenne (Caiene, havaiano, ananás).\n• Singapore Spanish.\n• Pérola.\n• Queen.\n• Española Roja (Red Spanish).\n• Perolera.\nA partir de 1996, houve substituição gradual da então predominante cultivar Smooth Cayenne pela cultivar MD-2 ou Gold (também chamada de ‘Extra Sweet’ ou ‘Golden Ripe’), que hoje domina o mercado internacional de abacaxi para consumo fresco."
+    },
+    {
+        "pergunta": "24 Quais são as cultivares de abacaxi mais plantadas no Brasil?",
+        "resposta": "As de maior importância econômica atualmente são:\n• ‘Pérola’ (e sua variante ‘Jupi’), responsável por 88% da produção nacional e por quase 100% da produção comercial no Nordeste e no Norte do País.\n• ‘Smooth Cayenne’, com plantios concentrados no Sudeste (Triângulo Mineiro, São Paulo e Paraná), representando 12% da produção nacional."
+    },
+    {
+        "pergunta": "20 Que práticas agrícolas podem contribuir para melhorar a capacidade de retenção de água e de nutrientes dos solos arenosos?",
+        "resposta": "A elevação do teor de matéria orgânica do solo é, do ponto de vista agronômico, uma prática que pode ser utilizada com o objetivo de melhorar a capacidade de retenção de água e de nutrientes pelos solos de textura arenosa. Em geral, as alternativas recomendadas para suprir os solos de matéria orgânica são as seguintes:\n• Incorporação de plantas infestantes e de restos culturais.\n• Aplicação de resíduos agroindustriais e pecuários (como as tortas vegetais e os estercos).\n• Adubação verde.\nNa abacaxicultura deve-se tentar, sempre que possível, incorporar ao solo os próprios restos culturais do abacaxizeiro (após a colheita dos frutos e das mudas), que podem representar valores próximos a 100 t de massa verde por hectare. A incorporação dos restos culturais pode, entretanto, favorecer a sobrevivência e/ou o aumento da população de fungos, insetos e outros parasitos prejudiciais à cultura, o que exige acompanhamento mais cuidadoso das condições fitossanitárias da área."
+    },
+    {
+        "pergunta": "21 Existem recomendações quanto à topografia do terreno?",
+        "resposta": "Sim. De preferência devem ser utilizadas áreas planas ou de pouca declividade (até 5% de declive), porque facilitam o trato da cultura."
+    },
+    {
+        "pergunta": "22 Existem microrganismos do solo benéficos ao abacaxizeiro?",
+        "resposta": "Sim. O solo é composto de uma microbiota bastante diversificada, com inúmeros microrganismos diferentes, entre os quais se encontram os fungos micorrízicos arbusculares e as bactérias diazotróficas. Os fungos beneficiam o abacaxizeiro com melhor nutrição, ao passo que as bactérias podem favorecer a planta pelo fornecimento de fatores de crescimento e nitrogênio (N).\nOs dois microrganismos podem também contribuir para reduzir a incidência de algumas doenças que ocorrem nas raízes. A inoculação de fungos micorrízicos nas raízes pode aumentar o crescimento de mudas de abacaxi, dependendo do tipo de substrato."
     }
 ]
-
